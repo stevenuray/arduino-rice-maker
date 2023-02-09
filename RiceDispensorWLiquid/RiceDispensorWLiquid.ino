@@ -18,7 +18,6 @@ unsigned const int relayPinRed = 10;
 unsigned const int relayPinBlack = 11;
 
 unsigned const int waterSensorInputPin = 3;
-unsigned const int liquidDispensorEnablePowerPin = 4;
 unsigned const int liquidDispensorEnablePin = A0;
 unsigned const int buttonPressThreshold = 850;
 
